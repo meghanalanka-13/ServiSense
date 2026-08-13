@@ -1,0 +1,122 @@
+{
+  "Refrigerator": [
+    {
+      "part_a": "Condenser Coil",
+      "part_b": "Compressor",
+      "mechanism": "A blocked/restricted condenser coil forces the compressor to work harder and run hotter -- documented as one of the leading precursors to compressor failure in commercial refrigeration.",
+      "base_rate_b": 0.5373,
+      "p_b_given_a_failed": 0.6726,
+      "p_b_given_a_ok": 0.4173,
+      "lift": 1.61
+    },
+    {
+      "part_a": "Fan",
+      "part_b": "Compressor",
+      "mechanism": "A failing fan reduces airflow across the coil, producing the same overheating stress on the compressor as a blocked coil.",
+      "base_rate_b": 0.5373,
+      "p_b_given_a_failed": 0.7021,
+      "p_b_given_a_ok": 0.4787,
+      "lift": 1.47
+    }
+  ],
+  "AC": [
+    {
+      "part_a": "Condenser Coil",
+      "part_b": "Compressor",
+      "mechanism": "Same mechanism as refrigeration: a blocked/restricted coil raises discharge temperature and stresses the compressor.",
+      "base_rate_b": 0.5311,
+      "p_b_given_a_failed": 0.682,
+      "p_b_given_a_ok": 0.4773,
+      "lift": 1.43
+    },
+    {
+      "part_a": "Filter",
+      "part_b": "Compressor",
+      "mechanism": "A clogged filter restricts airflow, forcing the compressor to run under higher load for longer periods.",
+      "base_rate_b": 0.5311,
+      "p_b_given_a_failed": 0.6929,
+      "p_b_given_a_ok": 0.4617,
+      "lift": 1.5
+    }
+  ],
+  "Washing Machine": [
+    {
+      "part_a": "Drain Pump",
+      "part_b": "Belt",
+      "mechanism": "A seizing or struggling drain pump stalls the drum via the belt-driven system, straining the belt -- a documented failure chain in washer diagnostics.",
+      "base_rate_b": 0.3951,
+      "p_b_given_a_failed": 0.6136,
+      "p_b_given_a_ok": 0.2992,
+      "lift": 2.05
+    },
+    {
+      "part_a": "Belt",
+      "part_b": "Motor",
+      "mechanism": "A slipping/worn belt makes the motor spin without transferring power to the drum, and sustained slipping generates heat that stresses the motor.",
+      "base_rate_b": 0.3947,
+      "p_b_given_a_failed": 0.5322,
+      "p_b_given_a_ok": 0.3049,
+      "lift": 1.75
+    }
+  ],
+  "Water Heater": [
+    {
+      "part_a": "Anode Rod",
+      "part_b": "Heating Element",
+      "mechanism": "A depleted anode rod accelerates corrosion and sediment buildup, which insulates and damages the heating element -- 'sediment heavily buries the lower element, dry-firing it.'",
+      "base_rate_b": 0.5837,
+      "p_b_given_a_failed": 0.733,
+      "p_b_given_a_ok": 0.5407,
+      "lift": 1.36
+    },
+    {
+      "part_a": "Anode Rod",
+      "part_b": "PRV Valve",
+      "mechanism": "Once the anode rod depletes, unchecked corrosion and sediment can force the burner to overheat weakened tank walls, escalating pressure-relief-valve risk.",
+      "base_rate_b": 0.4563,
+      "p_b_given_a_failed": 0.6594,
+      "p_b_given_a_ok": 0.3978,
+      "lift": 1.66
+    }
+  ],
+  "Microwave": [
+    {
+      "part_a": "Door Switch",
+      "part_b": "Fuse",
+      "mechanism": "Defective interlock switches or a misaligned door are a leading documented cause of a blown fuse.",
+      "base_rate_b": 0.6048,
+      "p_b_given_a_failed": 0.7273,
+      "p_b_given_a_ok": 0.5228,
+      "lift": 1.39
+    },
+    {
+      "part_a": "Magnetron",
+      "part_b": "Fuse",
+      "mechanism": "A shorted magnetron creates dangerous electrical conditions; the fuse sacrifices itself to protect the rest of the unit from cascading damage.",
+      "base_rate_b": 0.6048,
+      "p_b_given_a_failed": 0.7226,
+      "p_b_given_a_ok": 0.5262,
+      "lift": 1.37
+    }
+  ],
+  "Water Purifier": [
+    {
+      "part_a": "Sediment Filter",
+      "part_b": "Pump",
+      "mechanism": "Old and clogged filters strain the entire system and increase pressure load on the pump, a documented precursor to pump damage.",
+      "base_rate_b": 0.3805,
+      "p_b_given_a_failed": 0.5822,
+      "p_b_given_a_ok": 0.199,
+      "lift": 2.93
+    },
+    {
+      "part_a": "Sediment Filter",
+      "part_b": "Membrane",
+      "mechanism": "A saturated sediment pre-filter lets contaminants pass through directly to the membrane, leading to fouling/scaling damage.",
+      "base_rate_b": 0.6798,
+      "p_b_given_a_failed": 0.7528,
+      "p_b_given_a_ok": 0.6142,
+      "lift": 1.23
+    }
+  ]
+}

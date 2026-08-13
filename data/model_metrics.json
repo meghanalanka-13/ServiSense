@@ -1,0 +1,50 @@
+{
+  "Repair_Req_Next_30D": {
+    "target": "Repair_Req_Next_30D",
+    "roc_auc": 0.628,
+    "pr_auc": 0.0913,
+    "pr_auc_baseline": 0.046,
+    "pr_auc_lift_over_baseline": 1.98,
+    "accuracy": 0.7544,
+    "precision": 0.0792,
+    "recall": 0.4077,
+    "confusion_matrix": [
+      [
+        29427,
+        8731
+      ],
+      [
+        1091,
+        751
+      ]
+    ],
+    "train_rows": 160000,
+    "test_rows": 40000,
+    "positive_rate": 0.046,
+    "scale_pos_weight_used": 20.72
+  },
+  "Repair_Req_Next_90D": {
+    "target": "Repair_Req_Next_90D",
+    "roc_auc": 0.6529,
+    "pr_auc": 0.2324,
+    "pr_auc_baseline": 0.1258,
+    "pr_auc_lift_over_baseline": 1.85,
+    "accuracy": 0.6727,
+    "precision": 0.1958,
+    "recall": 0.5157,
+    "confusion_matrix": [
+      [
+        24315,
+        10655
+      ],
+      [
+        2436,
+        2594
+      ]
+    ],
+    "train_rows": 160000,
+    "test_rows": 40000,
+    "positive_rate": 0.1258,
+    "scale_pos_weight_used": 6.95
+  }
+}

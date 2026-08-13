@@ -1,0 +1,217 @@
+Appliance_Type,Part_Category_Needed,Month,Forecast_Demand
+AC,PCB,2026-09-01,493.36
+AC,Gas,2026-09-01,69.99
+AC,Condenser Coil,2026-09-01,166.1
+AC,Compressor,2026-09-01,413.94
+AC,Fan Motor,2026-09-01,196.58
+AC,Filter,2026-09-01,193.73
+AC,PCB,2026-10-01,518.71
+AC,Gas,2026-10-01,73.58
+AC,Condenser Coil,2026-10-01,174.64
+AC,Compressor,2026-10-01,435.21
+AC,Fan Motor,2026-10-01,206.68
+AC,Filter,2026-10-01,203.68
+AC,PCB,2026-11-01,473.35
+AC,Gas,2026-11-01,67.15
+AC,Condenser Coil,2026-11-01,159.37
+AC,Compressor,2026-11-01,397.15
+AC,Fan Motor,2026-11-01,188.61
+AC,Filter,2026-11-01,185.87
+AC,PCB,2026-12-01,487.57
+AC,Gas,2026-12-01,69.17
+AC,Condenser Coil,2026-12-01,164.15
+AC,Compressor,2026-12-01,409.08
+AC,Fan Motor,2026-12-01,194.28
+AC,Filter,2026-12-01,191.45
+AC,PCB,2027-01-01,469.82
+AC,Gas,2027-01-01,66.65
+AC,Condenser Coil,2027-01-01,158.17
+AC,Compressor,2027-01-01,394.18
+AC,Fan Motor,2027-01-01,187.2
+AC,Filter,2027-01-01,184.48
+AC,PCB,2027-02-01,464.7
+AC,Gas,2027-02-01,65.92
+AC,Condenser Coil,2027-02-01,156.45
+AC,Compressor,2027-02-01,389.89
+AC,Fan Motor,2027-02-01,185.16
+AC,Filter,2027-02-01,182.47
+Microwave,PCB,2026-09-01,266.58
+Microwave,Magnetron,2026-09-01,264.56
+Microwave,Fuse,2026-09-01,481.05
+Microwave,Turntable Motor,2026-09-01,261.91
+Microwave,Door Switch,2026-09-01,268.6
+Microwave,PCB,2026-10-01,278.43
+Microwave,Magnetron,2026-10-01,276.32
+Microwave,Fuse,2026-10-01,502.45
+Microwave,Turntable Motor,2026-10-01,273.56
+Microwave,Door Switch,2026-10-01,280.54
+Microwave,PCB,2026-11-01,281.16
+Microwave,Magnetron,2026-11-01,279.03
+Microwave,Fuse,2026-11-01,507.37
+Microwave,Turntable Motor,2026-11-01,276.24
+Microwave,Door Switch,2026-11-01,283.3
+Microwave,PCB,2026-12-01,282.22
+Microwave,Magnetron,2026-12-01,280.08
+Microwave,Fuse,2026-12-01,509.27
+Microwave,Turntable Motor,2026-12-01,277.27
+Microwave,Door Switch,2026-12-01,284.36
+Microwave,PCB,2027-01-01,285.66
+Microwave,Magnetron,2027-01-01,283.49
+Microwave,Fuse,2027-01-01,515.48
+Microwave,Turntable Motor,2027-01-01,280.65
+Microwave,Door Switch,2027-01-01,287.82
+Microwave,PCB,2027-02-01,285.57
+Microwave,Magnetron,2027-02-01,283.4
+Microwave,Fuse,2027-02-01,515.32
+Microwave,Turntable Motor,2027-02-01,280.57
+Microwave,Door Switch,2027-02-01,287.74
+Refrigerator,Thermostat,2026-09-01,206.54
+Refrigerator,PCB,2026-09-01,62.58
+Refrigerator,Door Seal,2026-09-01,190.49
+Refrigerator,Fan,2026-09-01,161.81
+Refrigerator,Compressor,2026-09-01,408.88
+Refrigerator,Condenser Coil,2026-09-01,338.52
+Refrigerator,Gas,2026-09-01,47.49
+Refrigerator,Relay,2026-09-01,129.09
+Refrigerator,Thermostat,2026-10-01,208.83
+Refrigerator,PCB,2026-10-01,63.28
+Refrigerator,Door Seal,2026-10-01,192.61
+Refrigerator,Fan,2026-10-01,163.61
+Refrigerator,Compressor,2026-10-01,413.43
+Refrigerator,Condenser Coil,2026-10-01,342.29
+Refrigerator,Gas,2026-10-01,48.02
+Refrigerator,Relay,2026-10-01,130.52
+Refrigerator,Thermostat,2026-11-01,211.13
+Refrigerator,PCB,2026-11-01,63.98
+Refrigerator,Door Seal,2026-11-01,194.73
+Refrigerator,Fan,2026-11-01,165.41
+Refrigerator,Compressor,2026-11-01,417.98
+Refrigerator,Condenser Coil,2026-11-01,346.06
+Refrigerator,Gas,2026-11-01,48.55
+Refrigerator,Relay,2026-11-01,131.96
+Refrigerator,Thermostat,2026-12-01,213.43
+Refrigerator,PCB,2026-12-01,64.67
+Refrigerator,Door Seal,2026-12-01,196.85
+Refrigerator,Fan,2026-12-01,167.21
+Refrigerator,Compressor,2026-12-01,422.53
+Refrigerator,Condenser Coil,2026-12-01,349.83
+Refrigerator,Gas,2026-12-01,49.08
+Refrigerator,Relay,2026-12-01,133.4
+Refrigerator,Thermostat,2027-01-01,215.73
+Refrigerator,PCB,2027-01-01,65.37
+Refrigerator,Door Seal,2027-01-01,198.97
+Refrigerator,Fan,2027-01-01,169.01
+Refrigerator,Compressor,2027-01-01,427.08
+Refrigerator,Condenser Coil,2027-01-01,353.59
+Refrigerator,Gas,2027-01-01,49.61
+Refrigerator,Relay,2027-01-01,134.83
+Refrigerator,Thermostat,2027-02-01,218.03
+Refrigerator,PCB,2027-02-01,66.07
+Refrigerator,Door Seal,2027-02-01,201.09
+Refrigerator,Fan,2027-02-01,170.81
+Refrigerator,Compressor,2027-02-01,431.63
+Refrigerator,Condenser Coil,2027-02-01,357.36
+Refrigerator,Gas,2027-02-01,50.14
+Refrigerator,Relay,2027-02-01,136.27
+Washing Machine,Inlet Valve,2026-09-01,288.24
+Washing Machine,Belt,2026-09-01,273.24
+Washing Machine,Motor,2026-09-01,271.54
+Washing Machine,Drain Pump,2026-09-01,195.36
+Washing Machine,PCB,2026-09-01,193.52
+Washing Machine,Door Lock,2026-09-01,288.6
+Washing Machine,Inlet Valve,2026-10-01,291.29
+Washing Machine,Belt,2026-10-01,276.14
+Washing Machine,Motor,2026-10-01,274.41
+Washing Machine,Drain Pump,2026-10-01,197.43
+Washing Machine,PCB,2026-10-01,195.57
+Washing Machine,Door Lock,2026-10-01,291.66
+Washing Machine,Inlet Valve,2026-11-01,287.38
+Washing Machine,Belt,2026-11-01,272.43
+Washing Machine,Motor,2026-11-01,270.73
+Washing Machine,Drain Pump,2026-11-01,194.78
+Washing Machine,PCB,2026-11-01,192.94
+Washing Machine,Door Lock,2026-11-01,287.74
+Washing Machine,Inlet Valve,2026-12-01,295.53
+Washing Machine,Belt,2026-12-01,280.15
+Washing Machine,Motor,2026-12-01,278.4
+Washing Machine,Drain Pump,2026-12-01,200.3
+Washing Machine,PCB,2026-12-01,198.41
+Washing Machine,Door Lock,2026-12-01,295.9
+Washing Machine,Inlet Valve,2027-01-01,298.27
+Washing Machine,Belt,2027-01-01,282.76
+Washing Machine,Motor,2027-01-01,280.99
+Washing Machine,Drain Pump,2027-01-01,202.17
+Washing Machine,PCB,2027-01-01,200.26
+Washing Machine,Door Lock,2027-01-01,298.65
+Washing Machine,Inlet Valve,2027-02-01,307.15
+Washing Machine,Belt,2027-02-01,291.17
+Washing Machine,Motor,2027-02-01,289.35
+Washing Machine,Drain Pump,2027-02-01,208.18
+Washing Machine,PCB,2027-02-01,206.21
+Washing Machine,Door Lock,2027-02-01,307.54
+Water Heater,PRV Valve,2026-09-01,311.28
+Water Heater,PCB,2026-09-01,260.33
+Water Heater,Thermostat,2026-09-01,259.63
+Water Heater,Heating Element,2026-09-01,448.16
+Water Heater,Anode Rod,2026-09-01,128.51
+Water Heater,PRV Valve,2026-10-01,309.42
+Water Heater,PCB,2026-10-01,258.77
+Water Heater,Thermostat,2026-10-01,258.08
+Water Heater,Heating Element,2026-10-01,445.48
+Water Heater,Anode Rod,2026-10-01,127.74
+Water Heater,PRV Valve,2026-11-01,312.65
+Water Heater,PCB,2026-11-01,261.47
+Water Heater,Thermostat,2026-11-01,260.78
+Water Heater,Heating Element,2026-11-01,450.13
+Water Heater,Anode Rod,2026-11-01,129.07
+Water Heater,PRV Valve,2026-12-01,315.9
+Water Heater,PCB,2026-12-01,264.19
+Water Heater,Thermostat,2026-12-01,263.49
+Water Heater,Heating Element,2026-12-01,454.81
+Water Heater,Anode Rod,2026-12-01,130.41
+Water Heater,PRV Valve,2027-01-01,319.15
+Water Heater,PCB,2027-01-01,266.91
+Water Heater,Thermostat,2027-01-01,266.2
+Water Heater,Heating Element,2027-01-01,459.49
+Water Heater,Anode Rod,2027-01-01,131.76
+Water Heater,PRV Valve,2027-02-01,322.4
+Water Heater,PCB,2027-02-01,269.63
+Water Heater,Thermostat,2027-02-01,268.91
+Water Heater,Heating Element,2027-02-01,464.17
+Water Heater,Anode Rod,2027-02-01,133.1
+Water Purifier,Membrane,2026-09-01,671.34
+Water Purifier,UV Lamp,2026-09-01,257.16
+Water Purifier,Pump,2026-09-01,287.0
+Water Purifier,Sediment Filter,2026-09-01,385.55
+Water Purifier,Carbon Filter,2026-09-01,129.8
+Water Purifier,PCB,2026-09-01,128.95
+Water Purifier,Membrane,2026-10-01,679.29
+Water Purifier,UV Lamp,2026-10-01,260.2
+Water Purifier,Pump,2026-10-01,290.39
+Water Purifier,Sediment Filter,2026-10-01,390.11
+Water Purifier,Carbon Filter,2026-10-01,131.34
+Water Purifier,PCB,2026-10-01,130.47
+Water Purifier,Membrane,2026-11-01,687.23
+Water Purifier,UV Lamp,2026-11-01,263.25
+Water Purifier,Pump,2026-11-01,293.79
+Water Purifier,Sediment Filter,2026-11-01,394.67
+Water Purifier,Carbon Filter,2026-11-01,132.87
+Water Purifier,PCB,2026-11-01,132.0
+Water Purifier,Membrane,2026-12-01,695.17
+Water Purifier,UV Lamp,2026-12-01,266.29
+Water Purifier,Pump,2026-12-01,297.18
+Water Purifier,Sediment Filter,2026-12-01,399.23
+Water Purifier,Carbon Filter,2026-12-01,134.41
+Water Purifier,PCB,2026-12-01,133.52
+Water Purifier,Membrane,2027-01-01,703.11
+Water Purifier,UV Lamp,2027-01-01,269.33
+Water Purifier,Pump,2027-01-01,300.58
+Water Purifier,Sediment Filter,2027-01-01,403.79
+Water Purifier,Carbon Filter,2027-01-01,135.95
+Water Purifier,PCB,2027-01-01,135.05
+Water Purifier,Membrane,2027-02-01,711.05
+Water Purifier,UV Lamp,2027-02-01,272.37
+Water Purifier,Pump,2027-02-01,303.97
+Water Purifier,Sediment Filter,2027-02-01,408.35
+Water Purifier,Carbon Filter,2027-02-01,137.48
+Water Purifier,PCB,2027-02-01,136.57

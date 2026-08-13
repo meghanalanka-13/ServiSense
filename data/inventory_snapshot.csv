@@ -1,0 +1,190 @@
+Part_Category_Needed,City,Current_SOH,Daily_Demand_Rate,MSL,Required
+Motor,Hyderabad,10,0.734,16,6
+Thermostat,Bengaluru,40,1.476,32,0
+Relay,Bengaluru,14,0.37,8,0
+Membrane,Mumbai,6,2.957,63,57
+Heating Element,Chennai,37,1.108,24,0
+Anode Rod,Mumbai,2,0.611,13,11
+Belt,Ahmedabad,14,0.718,16,2
+Compressor,Ahmedabad,34,1.889,40,6
+Anode Rod,Ahmedabad,9,0.296,7,0
+Filter,Chennai,5,0.456,10,5
+Motor,Chennai,19,0.558,12,0
+Pump,Chennai,11,0.639,14,3
+Pump,Ahmedabad,5,0.57,12,7
+Door Seal,Bengaluru,18,0.511,11,0
+Drain Pump,Mumbai,31,0.867,19,0
+Fan,Delhi,13,0.624,14,1
+Belt,Delhi,22,1.076,23,1
+Inlet Valve,Chennai,17,0.592,13,0
+Heating Element,Bengaluru,38,1.564,33,0
+Fuse,Ahmedabad,19,1.202,26,7
+Fan Motor,Delhi,30,0.857,18,0
+Gas,Kolkata,9,0.211,5,0
+Door Switch,Hyderabad,23,0.765,17,0
+Drain Pump,Ahmedabad,0,0.505,11,11
+Sediment Filter,Hyderabad,15,0.937,20,5
+Fuse,Kolkata,16,0.875,19,3
+Gas,Bengaluru,15,0.35,8,0
+Heating Element,Delhi,77,2.177,46,0
+Fan Motor,Chennai,11,0.487,11,0
+Inlet Valve,Kolkata,15,0.554,12,0
+Inlet Valve,Delhi,24,1.148,25,1
+Fan,Ahmedabad,1,0.38,8,7
+Belt,Bengaluru,7,0.976,21,14
+PCB,Mumbai,130,6.623,140,10
+PRV Valve,Hyderabad,7,0.941,20,13
+Turntable Motor,Bengaluru,10,0.883,19,9
+Door Switch,Bengaluru,0,0.887,19,19
+Door Switch,Chennai,10,0.629,14,4
+Sediment Filter,Delhi,32,1.646,35,3
+Compressor,Kolkata,36,1.537,33,0
+Turntable Motor,Hyderabad,20,0.757,16,0
+PRV Valve,Kolkata,11,0.637,14,3
+Relay,Ahmedabad,5,0.313,7,2
+Gas,Delhi,12,0.496,11,0
+Fan Motor,Ahmedabad,11,0.431,10,0
+Sediment Filter,Ahmedabad,20,0.734,16,0
+Door Switch,Delhi,0,1.186,25,25
+Relay,Kolkata,3,0.245,6,3
+Door Seal,Kolkata,14,0.38,8,0
+Membrane,Hyderabad,7,1.585,34,27
+Gas,Mumbai,5,0.551,12,7
+Drain Pump,Delhi,23,0.804,17,0
+Thermostat,Chennai,32,1.207,26,0
+Carbon Filter,Chennai,1,0.27,6,5
+Gas,Ahmedabad,3,0.278,6,3
+Fan,Kolkata,4,0.303,7,3
+Anode Rod,Kolkata,9,0.266,6,0
+Motor,Kolkata,17,0.491,11,0
+Filter,Hyderabad,15,0.489,11,0
+Carbon Filter,Delhi,16,0.567,12,0
+Belt,Kolkata,15,0.532,12,0
+Compressor,Hyderabad,63,2.218,47,0
+Heating Element,Hyderabad,13,1.336,29,16
+Door Switch,Mumbai,32,1.392,30,0
+Fan,Chennai,5,0.43,10,5
+Magnetron,Delhi,19,1.154,25,6
+PRV Valve,Bengaluru,18,1.111,24,6
+Compressor,Bengaluru,55,2.505,53,0
+Anode Rod,Hyderabad,13,0.4,9,0
+Turntable Motor,Ahmedabad,18,0.676,15,0
+Heating Element,Ahmedabad,6,1.069,23,17
+PCB,Delhi,200,6.108,129,0
+Anode Rod,Delhi,11,0.613,13,2
+Motor,Ahmedabad,4,0.723,16,12
+Magnetron,Mumbai,18,1.372,29,11
+Anode Rod,Bengaluru,11,0.437,10,0
+UV Lamp,Bengaluru,9,0.789,17,8
+Drain Pump,Kolkata,7,0.354,8,1
+Thermostat,Mumbai,68,2.276,48,0
+Motor,Bengaluru,4,0.91,20,16
+PCB,Chennai,40,3.378,71,31
+Sediment Filter,Chennai,0,0.827,18,18
+PRV Valve,Ahmedabad,18,0.736,16,0
+Belt,Mumbai,8,1.209,26,18
+Fuse,Chennai,9,1.221,26,17
+Relay,Delhi,3,0.5,11,8
+Magnetron,Hyderabad,11,0.718,16,5
+Turntable Motor,Delhi,33,1.114,24,0
+Motor,Delhi,19,1.083,23,4
+Compressor,Chennai,19,2.077,44,25
+Door Lock,Ahmedabad,13,0.786,17,4
+Carbon Filter,Mumbai,16,0.552,12,0
+Sediment Filter,Mumbai,6,1.699,36,30
+UV Lamp,Chennai,12,0.546,12,0
+Condenser Coil,Mumbai,42,2.414,51,9
+Thermostat,Hyderabad,40,1.376,29,0
+Fan Motor,Hyderabad,10,0.506,11,1
+Inlet Valve,Hyderabad,22,0.771,17,0
+Turntable Motor,Kolkata,5,0.461,10,5
+Heating Element,Mumbai,3,2.142,45,42
+Belt,Chennai,17,0.56,12,0
+Thermostat,Kolkata,25,0.906,20,0
+Filter,Ahmedabad,1,0.434,10,9
+PCB,Bengaluru,55,4.67,99,44
+PCB,Ahmedabad,13,3.355,71,58
+Carbon Filter,Kolkata,1,0.184,4,3
+Turntable Motor,Mumbai,21,1.318,28,7
+PRV Valve,Chennai,17,0.793,17,0
+UV Lamp,Delhi,17,1.106,24,7
+Door Lock,Chennai,17,0.566,12,0
+Door Lock,Mumbai,2,1.25,27,25
+UV Lamp,Ahmedabad,10,0.49,11,1
+UV Lamp,Hyderabad,6,0.612,13,7
+Condenser Coil,Kolkata,16,0.946,20,4
+Motor,Mumbai,16,1.261,27,11
+Membrane,Bengaluru,42,2.109,45,3
+Door Switch,Ahmedabad,8,0.661,14,6
+Door Seal,Mumbai,1,0.917,20,19
+Fuse,Bengaluru,39,1.588,34,0
+Pump,Delhi,28,1.247,27,0
+PCB,Hyderabad,39,3.801,80,41
+Door Seal,Chennai,0,0.48,11,11
+Heating Element,Kolkata,21,0.925,20,0
+Condenser Coil,Delhi,51,2.026,43,0
+Fan Motor,Mumbai,18,0.919,20,2
+Inlet Valve,Ahmedabad,0,0.797,17,17
+Magnetron,Bengaluru,10,0.841,18,8
+Door Seal,Ahmedabad,4,0.458,10,6
+Thermostat,Delhi,35,1.986,42,7
+Carbon Filter,Bengaluru,0,0.397,9,9
+Drain Pump,Bengaluru,10,0.678,15,5
+Magnetron,Ahmedabad,9,0.694,15,6
+Pump,Hyderabad,19,0.699,15,0
+Filter,Mumbai,29,0.91,20,0
+Door Lock,Kolkata,14,0.519,11,0
+Door Lock,Delhi,20,1.17,25,5
+Gas,Chennai,11,0.3,7,0
+Membrane,Kolkata,20,1.003,22,2
+Relay,Chennai,4,0.311,7,3
+Door Seal,Hyderabad,6,0.562,12,6
+Door Switch,Kolkata,19,0.507,11,0
+Anode Rod,Chennai,10,0.325,7,0
+Condenser Coil,Hyderabad,10,1.391,30,20
+Membrane,Delhi,15,2.869,61,46
+Inlet Valve,Bengaluru,17,0.967,21,4
+Pump,Bengaluru,0,0.876,19,19
+Fan Motor,Kolkata,10,0.35,8,0
+Condenser Coil,Ahmedabad,0,1.198,26,26
+PRV Valve,Mumbai,42,1.473,31,0
+PRV Valve,Delhi,51,1.479,32,0
+Relay,Mumbai,15,0.649,14,0
+Carbon Filter,Hyderabad,10,0.317,7,0
+UV Lamp,Kolkata,4,0.402,9,5
+Sediment Filter,Bengaluru,0,1.193,26,26
+Inlet Valve,Mumbai,25,1.268,27,2
+Membrane,Ahmedabad,28,1.291,28,0
+Relay,Hyderabad,2,0.357,8,6
+Fan,Bengaluru,8,0.447,10,2
+Filter,Kolkata,16,0.335,8,0
+Membrane,Chennai,22,1.439,31,9
+Belt,Hyderabad,6,0.725,16,10
+Magnetron,Kolkata,2,0.49,11,9
+Turntable Motor,Chennai,3,0.656,14,11
+Pump,Kolkata,8,0.408,9,1
+Carbon Filter,Ahmedabad,7,0.265,6,0
+UV Lamp,Mumbai,21,1.114,24,3
+Fuse,Delhi,15,2.137,45,30
+Compressor,Delhi,64,3.417,72,8
+Door Lock,Bengaluru,28,0.965,21,0
+Fan,Hyderabad,9,0.447,10,1
+Condenser Coil,Chennai,14,1.268,27,13
+Pump,Mumbai,4,1.249,27,23
+Condenser Coil,Bengaluru,17,1.478,32,15
+Drain Pump,Hyderabad,9,0.531,12,3
+Drain Pump,Chennai,6,0.391,9,3
+Magnetron,Chennai,9,0.65,14,5
+Filter,Bengaluru,24,0.65,14,0
+Filter,Delhi,28,0.858,19,0
+Thermostat,Ahmedabad,20,1.13,24,4
+Fuse,Hyderabad,7,1.349,29,22
+PCB,Kolkata,64,2.48,53,0
+Fan Motor,Bengaluru,3,0.643,14,11
+Fan,Mumbai,11,0.804,17,6
+Gas,Hyderabad,11,0.309,7,0
+Compressor,Mumbai,88,3.943,83,0
+Door Seal,Delhi,25,0.739,16,0
+Door Lock,Hyderabad,12,0.837,18,6
+Sediment Filter,Kolkata,8,0.552,12,4
+Fuse,Mumbai,23,2.463,52,29
